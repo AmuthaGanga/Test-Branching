@@ -1,0 +1,5 @@
+screening-ws-amlock:
+  producerList:
+    -
+     url: http://172.27.0.75:8080/OnlineScreeningService/services/AmlockScreeningService
+     contextPath: com.soap.consumewsdl.amlock.stub
